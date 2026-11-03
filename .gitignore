@@ -1,0 +1,9 @@
+# data and model files are not tracked
+data/
+checkpoints/*.pth
+outputs/
+predictions/
+__pycache__/
+*.pyc
+.DS_Store
+._*
